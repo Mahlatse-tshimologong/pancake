@@ -11,4 +11,24 @@
 nav {
 background-color: #3e0d47;
 }
+nav h1{
+    color: #fff;
+    font-size: 3rem;
+    padding: 0.8rem 0;
+}
 /* _________________ */
+.quote-container{
+    margin: 0.8rem 8rem;
+    background-color: #f6f6f6;
+    padding: 0 1.5rem;
+    border-left: 10px solid #3e0d47;
+}
+.quote-container p{
+    padding: 0.8rem 0;
+}
+
+.quote-container p:last-child{
+    font-style: italic;
+    font-weight: 100;
+    color: #555;
+}
